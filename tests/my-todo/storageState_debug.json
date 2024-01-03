@@ -1,0 +1,14 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "http://localhost:3003",
+      "localStorage": [
+        {
+          "name": "identify_id",
+          "value": "20874434-0b9d-4a8b-af50-890317514589"
+        }
+      ]
+    }
+  ]
+}

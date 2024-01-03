@@ -1,0 +1,16 @@
+{
+    "playwright.env": {
+        "DEBUG": "pw:api",
+        "BASE_URL": "http://localhost:3003",
+        "TEST_USERNAME": "01001815",
+        "TEST_PASSWORD": "1"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true,
+}
